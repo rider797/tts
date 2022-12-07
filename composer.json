@@ -1,0 +1,9 @@
+{
+  "require": {
+    "google/cloud-text-to-speech": "^1.4.4",
+    "vlucas/phpdotenv": "^4.1",
+    "ext-json": "*",
+    "ext-zip": "*",
+    "ext-dom": "*"
+  }
+}
